@@ -7,19 +7,19 @@ body {
 
   /* Modo Claro */
 body.tema-claro {
-    background-color: #f5f5f5;
-    color: #111;
+    background-color: #fcd7aa;
+    color: #3e2c1c;
 }
 
 /* Adapta os botões no modo claro */
 body.tema-claro .button {
-    border-color: #111;
+    border-color: #8b5e3c;
     color: #111;
 }
 
 body.tema-claro .button:hover {
-    background-color: #111;
-    color: white;
+    background-color: #a06c3b;
+    color: #3e2c1c;
 }
 
 /* Se quiser mudar links ou outras seções, adicione aqui */
